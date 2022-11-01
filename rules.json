@@ -1,0 +1,14 @@
+[
+    {
+        "filter": ".mp4",
+        "folderName": "Videos"
+    },
+    {
+        "filter": ".png",
+        "folderName": "Fotos"
+    },
+    {
+        "filter": ".exe",
+        "folderName": "Juegos"
+    }
+]
